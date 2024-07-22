@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lipebianchi/lipebianchi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lipebianchi/lipebianchi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lipebianchi/lipebianchi/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
 ## Hi!👋 I'm Felipe Bianchi. I'm a Software Engineering student from Brazil.
 
 * 📔 I'm currently studying Analysis and Systems Development in Santana de Parnaíba.
@@ -60,3 +67,4 @@ Libraries:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40px"/>
 </div>
+
