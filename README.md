@@ -24,7 +24,7 @@
 
 ##
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kjx7hft4g47h4sni3lvooczz6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kjx7hft4g47h4sni3lvooczz6e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipebianchi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipebianchi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
