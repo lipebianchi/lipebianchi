@@ -39,6 +39,8 @@
 
  - https://lipebianchi.github.io/CSS-desafio-3/<br>
 
+ - https://lipebianchi.github.io/css-discord-responsivo/<br>
+
  - In Progress<br><br>
 
 ![midnight](https://github.com/user-attachments/assets/d9fe2fdd-fd68-48f9-b743-590fbecd6396)
