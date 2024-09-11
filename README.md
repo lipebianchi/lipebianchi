@@ -33,7 +33,7 @@
 
 ✨ Portfólio -
 
- - https://lipebianchi.github.io/CSS-desafio-01/<br>
+ - https://lipebianchi.github.io/pokedex-dinamica/<br>
 
  - https://lipebianchi.github.io/CSS-desafio-2/<br>
 
