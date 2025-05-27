@@ -31,8 +31,6 @@
 
 ✨ Portfólio -
 
- - https://lipebianchi.github.io/personal_page/<br>
-
  - https://lipebianchi.github.io/pokedex-dinamica/<br>
 
  - https://lipebianchi.github.io/CSS-desafio-3/<br>
