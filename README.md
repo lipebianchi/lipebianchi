@@ -8,7 +8,7 @@
 ## Hi!👋 I'm Felipe Bianchi. I'm a Software Engineering student from Brazil.
 
 * 📔 I'm currently studying Analysis and Systems Development in Santana de Parnaíba.
-* 🥇 FullStack Developer at AcessStage, Negocie Online group
+* 🥇 FullStack Developer at Accesstage, Negocie Online group
 
 <details>
   <summary>More about me</summary><br>
