@@ -8,13 +8,12 @@
 ## Hi!👋 I'm Felipe Bianchi. I'm a Software Engineering student from Brazil.
 
 * 📔 I'm currently studying Analysis and Systems Development in Santana de Parnaíba.
-* 🥇 Currently leader of "Game Dev" project at the Santana de Parnaíba city hall startup
+* 🥇 FullStack Developer at AcessStage, Negocie Online group
 
 <details>
   <summary>More about me</summary><br>
-    - 🌳 I am 20 years old, currently living in Brazil. I have an intermediate level of English and experience with: Python, HTML, CSS, Javascript, Git, Unity and Game Development.
+    - 🌳 I am 20 years old, currently living in Brazil. I have an intermediate level of English and experience with: Python, HTML, CSS, .Net, Git, Unity and Game Development.
   <br><br>
-    - 🎮 I am passionate about games and studying. The style of game I like most is Soulslike, I really like platinum games, doing as much as I can in games! My best area in studies is programming and mathematics, I always study and try to be as connected as possible to new technologies.
 </details>
 
 
@@ -32,8 +31,6 @@
 ✨ Portfólio -
 
  - https://lipebianchi.github.io/pokedex-dinamica/<br>
-
- - https://lipebianchi.github.io/CSS-desafio-3/<br>
 
  - https://lipebianchi.github.io/css-discord-responsivo/<br>
 
