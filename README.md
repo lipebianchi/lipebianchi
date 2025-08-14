@@ -48,9 +48,3 @@ Tools:
   
 </div><br>
 
-Libraries:
-
-<div style="display: inline-block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" width="40px" />
-</div>
-
