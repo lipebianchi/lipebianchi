@@ -5,7 +5,7 @@
 
 <details>
   <summary>More about me</summary><br>
-    - 🌳 I am 20 years old, currently living in Brazil. I have an intermediate level of English and experience with: Python, HTML, CSS, .Net, Git, Unity and Game Development.
+    - 🌳 I am 21 years old, currently living in Brazil. I have an intermediate level of English and experience with: Python, HTML, CSS, .Net, Git, Unity and Game Development.
   <br><br>
 </details>
 
