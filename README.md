@@ -121,6 +121,8 @@ Currently studying:
 
 ## Hunter's Philosophy
 
+<img align="right" width="280px" src="./hunter_sidepicture2.jpg" alt="Hunter"/>
+
 ◈ Clean Architecture over quick fixes
 
 ◈ Domain-Driven Design whenever complexity demands it
