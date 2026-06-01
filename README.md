@@ -145,14 +145,6 @@ A public NuGet package built to simplify Microsoft Teams notifications through a
 
 Designed with SOLID principles and a modular architecture, the library allows developers to compose Adaptive Cards through expressive and reusable builders, reducing boilerplate and improving maintainability.
 
-```csharp
-new AdaptiveCardBuilder()
-    .AddTextBlock("Deployment completed")
-    .AddFact("Environment", "Production")
-    .AddOpenUrlAction("View Logs", logsUrl)
-    .Build();
-```
-
 **Weaponry**
 
 - C#
