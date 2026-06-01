@@ -53,7 +53,7 @@ Currently studying:
 
 ---
 
-<img align="right" width="280px" src="./hunter_sidepicture.png" alt="Hunter"/>
+<img align="right" width="280px" src="./hunter_sidepicture.jpg" alt="Hunter"/>
 
 ### ⚔ Hunter Status
 
