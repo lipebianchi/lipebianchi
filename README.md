@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Hunter+of+Bugs;Building+Scalable+Systems;Seek+Paleblood+to+Transcend+the+Hunt." />
+<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;The+Great+Hunter;Building+Scalable+Systems;Seek+Paleblood+to+Transcend+the+Hunt." />
 
 </div>
 
