@@ -52,10 +52,9 @@ Currently studying:
 ◈ System Design
 
 ---
-
-<img align="right" width="280px" src="./hunter_sidepicture.jpg" alt="Hunter"/>
-
 ### ⚔ Hunter Status
+
+<img align="right" width="350px" src="./hunter_sidepicture.jpg" alt="Hunter"/>
 
 | Attribute | Value |
 |------------|--------|
