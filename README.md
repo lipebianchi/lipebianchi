@@ -1,223 +1,73 @@
-<!-- BANNER -->
-
 <div align="center">
-  <img src="./banner_bloodborne.jpg" width="100%" alt="Bloodborne Banner"/>
+  <img src="./banner_bloodborne.jpg" width="100%" alt="Bloodborne-inspired banner" />
 </div>
 
-<!-- TITLE -->
+<h1 align="center">Felipe Tozarini Mendes Bianchi</h1>
 
-<div align="center">
+<p align="center">
+  <strong>Backend .NET Developer</strong><br />
+  APIs, integrations, asynchronous processing and cloud applications
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;The+Great+Hunter;Building+Scalable+Systems;Seek+Paleblood+to+Transcend+the+Hunt." />
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-mendes-bianchi-76a581258/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bianchim.dev@outlook.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=microsoftoutlook&logoColor=C9A84C" alt="Email" />
+  </a>
+  <a href="https://www.nuget.org/packages/TeamsComposer.Net">
+    <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" />
+  </a>
+</p>
 
-</div>
+## About me
 
-<br/>
+I'm a backend developer based in São Paulo, Brazil. I work mainly with C# and .NET, building APIs, integrations, automations, monitoring tools and asynchronous workflows. My day-to-day work also includes AWS services, relational and NoSQL databases, Docker and CI/CD.
 
-<div align="center">
+I enjoy understanding the problem before writing code. I care about clear architecture, maintainable systems and solutions that can evolve without becoming unnecessarily complex. I'm also studying Systems Analysis and Development at Fatec Santana de Parnaíba.
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/felipe-mendes-bianchi-76a581258/)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/lipebianchi)
+## Current work
 
-</div>
+I work as a .NET backend developer at **Negocie Online**, where I:
 
-<br/>
+- Build APIs and integrations between internal systems, external services and databases.
+- Develop monitoring routines that help customer-facing teams identify operational problems faster.
+- Work with asynchronous processing and event-driven flows using AWS Lambda, SQS, S3, EventBridge, API Gateway and CloudWatch.
+- Develop internal solutions using Amazon Bedrock and Athena to answer company assessments, explore data and generate reports.
 
-<div align="center">
+## Technologies
 
-![Profile Views](https://komarev.com/ghpvc/?username=lipebianchi\&style=flat-square\&color=c9a84c\&label=HUNTERS+MET)
+| Area | Technologies |
+| --- | --- |
+| Backend | C#, .NET, ASP.NET Core, REST APIs, Entity Framework Core, Dapper |
+| AWS | Lambda, SQS, API Gateway, S3, EventBridge, CloudWatch, Bedrock, Athena, RDS, DynamoDB, ECS |
+| Data | PostgreSQL, SQL, Redis, DynamoDB |
+| Delivery | Docker, Jenkins, Git, CI/CD |
+| Architecture | DDD, SOLID, Clean Architecture, Design Patterns, asynchronous processing, messaging |
 
-</div>
+## Featured projects
 
----
+### [TeamsComposer.Net](https://github.com/lipebianchi/TeamsComposer.Net)
 
-# 🩸 Hunter's Journal
+A public C# library with a fluent API for composing and sending Microsoft Teams MessageCards and AdaptiveCards through webhooks. The package is available on [NuGet](https://www.nuget.org/packages/TeamsComposer.Net).
 
-> *"We are born of the code, made developers by the code, undone by the code."*
+`C#` `.NET 8` `Builder Pattern` `SOLID` `Adaptive Cards` `Microsoft Teams Webhooks`
 
-I'm **Felipe Bianchi**, a Software Engineering student and Full-Stack Developer from Brazil.
+### [Projeto Movidos](https://www.projetomovidos.com.br/)
 
-Currently working as a **Full-Stack Developer at Accesstage (Negocie Online Group)**, where I build backend solutions, integrations and scalable systems using modern Microsoft technologies.
+A volunteer management platform developed for a Brazilian NGO. The project uses a .NET API, PostgreSQL on Neon, Supabase for file storage and services selected to keep the operating cost within free tiers.
 
-Currently studying:
+`.NET` `PostgreSQL` `Neon` `Supabase` `Render` `REST APIs` `Caching`
 
-◈ Software Architecture
+### [PicPay Simplificado](https://github.com/lipebianchi/PicPaySimplificado)
 
-◈ Domain-Driven Design
+A backend project based on the PicPay technical challenge. It focuses on transaction rules and domain modeling using DDD, value objects, use cases, Entity Framework Core and PostgreSQL.
 
-◈ Cloud Computing
-
-◈ APIs & Integrations
-
-◈ System Design
-
----
-### ⚔ Hunter Status
-
-<img align="right" width="350px" src="./hunter_sidepicture.jpg" alt="Hunter"/>
-
-| Attribute | Value |
-|------------|--------|
-| Hunter | Felipe Bianchi |
-| Origin | Brazil 🇧🇷 |
-| Covenant | Open Source |
-| Workshop | Accesstage |
-| Main Weapon | C# / .NET |
-| Secondary | PostgreSQL |
-| Insight | Cloud & Architecture |
-| Current Hunt | Building scalable systems |
-| Status | Seeking Paleblood |
-
-<br clear="right"/>
+`ASP.NET Core` `PostgreSQL` `Entity Framework Core` `DDD` `SOLID` `Value Objects`
 
 ---
 
-# 🗡 Arsenal
-
-<div align="center">
-
-![CSharp](https://img.shields.io/badge/C%23-111?style=for-the-badge\&logo=csharp\&logoColor=c9a84c)
-![.NET](https://img.shields.io/badge/.NET-111?style=for-the-badge\&logo=dotnet\&logoColor=c9a84c)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-111?style=for-the-badge\&logo=dotnet\&logoColor=c9a84c)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge\&logo=postgresql\&logoColor=c9a84c)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge\&logo=javascript\&logoColor=c9a84c)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge\&logo=html5\&logoColor=c9a84c)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge\&logo=css3\&logoColor=c9a84c)
-![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge\&logo=amazonaws\&logoColor=c9a84c)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge\&logo=git\&logoColor=c9a84c)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge\&logo=github\&logoColor=c9a84c)
-![GitLab](https://img.shields.io/badge/GitLab-111?style=for-the-badge\&logo=gitlab\&logoColor=c9a84c)
-![Jira](https://img.shields.io/badge/Jira-111?style=for-the-badge\&logo=jira\&logoColor=c9a84c)
-
-</div>
-
----
-
-# 📜 Hunter Records
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lipebianchi&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" />
-
-<br/><br/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=lipebianchi&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipebianchi&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
-
-</div>
-
----
-
-# 🐍 The Hunt Never Ends
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lipebianchi/lipebianchi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lipebianchi/lipebianchi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lipebianchi/lipebianchi/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## Hunter's Philosophy
-
-<img align="right" width="150px" src="./hunter_sidepicture2.jpg" alt="Hunter"/>
-
-◈ Clean Architecture over quick fixes
-
-◈ Domain-Driven Design whenever complexity demands it
-
-◈ Cloud-first mindset
-
-◈ Maintainability over cleverness
-
-◈ Code should be read more than it is written
-
----
-
-# 🩸 Great Hunts
-
-### ⚔ TeamsComposer.Net — The Messenger's Workshop
-
-> Forged to deliver messages across distant realms.
-
-A public NuGet package built to simplify Microsoft Teams notifications through a fluent Builder Pattern API.
-
-Designed with SOLID principles and a modular architecture, the library allows developers to compose Adaptive Cards through expressive and reusable builders, reducing boilerplate and improving maintainability.
-
-**Weaponry**
-
-- C#
-- .NET
-- Builder Pattern
-- SOLID
-- Dependency Injection
-- Adaptive Cards
-- Microsoft Teams Webhooks
-- NuGet Package Development
-
----
-
-### 💰 The Merchant's Ledger
-
-> Every Blood Echo must be accounted for.
-
-A backend application inspired by the PicPay challenge, developed with a strong emphasis on software architecture and domain modeling rather than UI implementation.
-
-The project applies concepts such as Domain-Driven Design, SOLID principles, Object Calisthenics, Value Objects and Use Cases to create a maintainable and scalable financial transaction system.
-
-**Weaponry**
-
-- ASP.NET Core
-- PostgreSQL
-- Entity Framework Core
-- DDD
-- SOLID
-- Object Calisthenics
-- Value Objects
-- Repository Pattern
-- Use Cases
-
----
-
-### ❤️ The Sanctuary of Hope
-
-> Some hunts are fought not with weapons, but with purpose.
-
-Official platform developed for Projeto Movidos, a Brazilian NGO dedicated to supporting children and teenagers in vulnerable situations.
-
-The project was designed around a Zero-Cost Cloud Architecture strategy, maximizing performance and availability while operating entirely within free-tier services.
-
-Infrastructure highlights:
-
-- Supabase for media storage
-- Neon for PostgreSQL hosting
-- Render for API deployment
-- Render for frontend hosting
-- Automated health-check strategy to reduce cold starts
-- Application-level caching
-
-The result is a production-ready platform capable of serving real users while maintaining virtually zero operational costs.
-
-**Weaponry**
-
-- Cloud Architecture
-- PostgreSQL
-- Neon
-- Supabase
-- Render
-- REST APIs
-- Caching Strategies
-- Cost Optimization
-
-🌐 https://projetomovidos.com.br
-
----
-
-<div align="center">
-
-### ☾ A Hunter Must Hunt ☾
-
-*"The night, and the dream, were long..."*
-
-</div>
+<p align="center">
+  <sub><em>"A hunter must hunt."</em></sub>
+</p>
