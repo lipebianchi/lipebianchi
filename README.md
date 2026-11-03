@@ -21,21 +21,6 @@
   </a>
 </p>
 
-## About me
-
-I'm a backend developer based in São Paulo, Brazil. I work mainly with C# and .NET, building APIs, integrations, automations, monitoring tools and asynchronous workflows. My day-to-day work also includes AWS services, relational and NoSQL databases, Docker and CI/CD.
-
-I enjoy understanding the problem before writing code. I care about clear architecture, maintainable systems and solutions that can evolve without becoming unnecessarily complex. I'm also studying Systems Analysis and Development at Fatec Santana de Parnaíba.
-
-## Current work
-
-I work as a .NET backend developer at **Negocie Online**, where I:
-
-- Build APIs and integrations between internal systems, external services and databases.
-- Develop monitoring routines that help customer-facing teams identify operational problems faster.
-- Work with asynchronous processing and event-driven flows using AWS Lambda, SQS, S3, EventBridge, API Gateway and CloudWatch.
-- Develop internal solutions using Amazon Bedrock and Athena to answer company assessments, explore data and generate reports.
-
 ## Technologies
 
 | Area | Technologies |
